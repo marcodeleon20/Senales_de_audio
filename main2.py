@@ -1,3 +1,5 @@
+#CODIGO DE: https://github.com/antonioam82/reproductor-WAV/blob/master/wavPlayer.py
+
 #IMPORTAMOS RECURSOS NECESARIOS.
 import pyaudio  
 import wave 
